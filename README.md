@@ -11,4 +11,10 @@ Assignment:
      3. Locally edit your code to include:
           a. a new file with yourname.html that contains an H1 Tag with your name and answers to the prompt
           b. a realtive link on index.html that links to yourname.html
+          
+          (Optional:
+               Download a picture of your hobby from https://www.pexels.com/
+               Add images into assets folder
+               Add your image to yourname.html
+          )
      4.Commit and push all changes (via VS Code).
