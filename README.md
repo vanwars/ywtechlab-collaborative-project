@@ -2,7 +2,7 @@
 
 YW Tech Lab Week 3: Collaborative Project
 
-In this assigmnent, we will be collaboratively working on a blank index.html file that will include some input from every teamm member. The purpose of this assinment is to show how forking repositories work in Github so that multiple people can work on the same project and files remotely.
+In this assigmnent, we will be collaboratively working on a blank index.html file that will include some input from every team member. The purpose of this assinment is to show how forking repositories work in Github so that multiple people can work on the same project and files remotely.
 
 Assignment:
 
